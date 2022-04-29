@@ -1,0 +1,48 @@
+.container{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 35% !important;
+    background-color: palegoldenrod
+}
+.discover{
+    font-size: 12px;
+    margin-top: 24px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.new{
+    padding: 20px;
+    font-weight: bold;
+    line-height: 2;
+}
+.get{
+    font-size: 14px;
+    padding: 10px;
+}
+.congrats{
+    color: green;
+    font-size: 30px;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+.submit{
+    width: 15em;
+    height: 5em;
+    margin-bottom: 25px;
+    border: 1px solid orange;
+    background-color: orangered;
+    color: white;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+button:hover{
+    color: paleturquoise;
+}
+.want{
+    font-size: 34px;
+}
