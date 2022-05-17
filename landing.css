@@ -32,6 +32,14 @@ main{
     padding-top: 12px;
     text-align: center;
 }
+.frex{
+    margin-top: 40px;
+    margin-bottom: 23px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
+}
 .nation{
     margin-top: 40px;
     display: block;
@@ -49,6 +57,14 @@ main{
     padding-top: 12px;
     text-align: center;
 }
+.smile{
+    margin-top: 40px;
+    margin-bottom: 23px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
+}
 .outside{
     margin-top: 40px;
     border: 0px solid;
@@ -59,8 +75,27 @@ main{
     padding-top: 10px;
     margin-left: 12px;
 }
+.equiti{
+    text-align: center;
+    font-style: italic;
+}
+.benefits{
+    margin-top: 40px;
+    margin-bottom:23px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
+}
 .robots{
     text-align: center;
+}
+.robots3{
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
 }
 .center{
     display: block;
@@ -70,8 +105,20 @@ main{
     height: 120px;
     border-radius: 50%;   
 }
+
 .guide{
     text-align: center;
+}
+.reviews{
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
+}
+.real{
+    text-align: center;
+    font-weight: bold;
 }
 .ref{
     text-align: center;
